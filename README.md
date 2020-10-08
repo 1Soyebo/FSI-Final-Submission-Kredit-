@@ -1,7 +1,7 @@
 # FSI-Final-Submission-Kredit-
 Kredit MVP for FSI Hackathon
 
-##Summary 
+## Summary 
 Marketplace for cheaper loans
 Our solution enables:
 Different loan options with competitive rates .
